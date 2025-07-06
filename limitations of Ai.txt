@@ -1,0 +1,257 @@
+## **COMPLETE EXHAUSTIVE LIST OF PROMPT-FIXABLE AI LIMITATIONS**
+
+### **RESPONSE QUALITY & DEPTH DEFICIENCIES**
+- Superficial, Wikipedia-level responses lacking depth
+- Generic templated answers without personalization
+- Cookie-cutter solutions ignoring specific contexts
+- Lack of actionable, implementable advice
+- Missing step-by-step detailed breakdowns
+- Vague recommendations without specificity
+- Failure to provide concrete examples and case studies
+- Inadequate explanation of reasoning behind suggestions
+- Missing alternative approaches and options
+- Lack of risk-benefit analysis for recommendations
+- Poor consideration of edge cases and exceptions
+- Insufficient detail for practical implementation
+- Missing troubleshooting and contingency information
+- Failure to anticipate follow-up questions
+- Inadequate depth in specialized topics
+
+### **REASONING & ANALYTICAL THINKING FAILURES**
+- Poor multi-step logical reasoning chains
+- Failure to break complex problems into components
+- Missing systematic problem-solving approaches
+- Inadequate root cause analysis
+- Weak pattern recognition across domains
+- Poor analogical reasoning between concepts
+- Failure to identify underlying principles
+- Missing critical thinking and skeptical analysis
+- Inadequate consideration of counterarguments
+- Poor synthesis of information from multiple sources
+- Weak hypothesis formation and testing logic
+- Failure to identify assumptions and biases
+- Missing metacognitive awareness of reasoning process
+- Poor evaluation of evidence quality and reliability
+- Inadequate logical flow between ideas
+- Weak causal relationship identification
+- Missing systematic elimination of possibilities
+- Poor prioritization based on importance/impact
+- Failure to consider second and third-order effects
+- Inadequate scenario planning and analysis
+
+### **CONTEXTUAL UNDERSTANDING & PERSONALIZATION GAPS**
+- Failure to adapt to user's expertise level
+- Missing consideration of user's specific constraints
+- Poor understanding of cultural and regional contexts
+- Inadequate adaptation to industry-specific requirements
+- Failure to consider user's resource limitations
+- Missing personalization based on stated preferences
+- Poor understanding of user's actual goals vs stated goals
+- Inadequate consideration of user's timeline constraints
+- Failure to adapt communication style to audience
+- Missing consideration of user's risk tolerance
+- Poor understanding of organizational context
+- Inadequate consideration of user's previous experience
+- Failure to account for user's emotional state
+- Missing adaptation to user's learning style
+- Poor consideration of accessibility requirements
+- Inadequate understanding of stakeholder dynamics
+- Failure to consider regulatory/compliance requirements
+- Missing consideration of budget constraints
+- Poor understanding of competitive landscape
+- Inadequate consideration of seasonal/temporal factors
+
+### **KNOWLEDGE APPLICATION & INTEGRATION WEAKNESSES**
+- Poor integration of knowledge across domains
+- Failure to apply theoretical knowledge practically
+- Missing connections between related concepts
+- Inadequate synthesis of interdisciplinary information
+- Poor application of best practices from other fields
+- Failure to leverage historical precedents and lessons
+- Missing integration of cutting-edge developments
+- Inadequate application of frameworks and methodologies
+- Poor translation of academic knowledge to practical use
+- Failure to adapt general principles to specific situations
+- Missing application of systems thinking approaches
+- Inadequate use of mental models and cognitive frameworks
+- Poor integration of quantitative and qualitative insights
+- Failure to apply design thinking methodologies
+- Missing application of strategic thinking frameworks
+- Inadequate use of decision-making models
+- Poor application of optimization principles
+- Failure to leverage network effects and relationships
+- Missing application of game theory concepts
+- Inadequate use of behavioral psychology insights
+
+### **CREATIVE & INNOVATIVE THINKING LIMITATIONS**
+- Formulaic creative outputs lacking originality
+- Poor brainstorming and ideation capabilities
+- Missing "blue sky" thinking and radical alternatives
+- Inadequate challenge of conventional assumptions
+- Failure to think outside established paradigms
+- Poor combination of disparate concepts for innovation
+- Missing exploration of unconventional approaches
+- Inadequate creative problem-solving techniques
+- Failure to generate multiple creative alternatives
+- Poor improvisation and adaptive creativity
+- Missing lateral thinking approaches
+- Inadequate use of creative constraints for innovation
+- Failure to leverage serendipity and happy accidents
+- Poor exploration of "what if" scenarios
+- Missing use of creative analogies and metaphors
+- Inadequate artistic and aesthetic considerations
+- Failure to challenge status quo thinking
+- Poor exploration of paradoxes and contradictions
+- Missing use of design thinking for innovation
+- Inadequate creative storytelling capabilities
+
+### **COMMUNICATION & PERSUASION DEFICIENCIES**
+- Poor adaptation of communication style to audience
+- Missing persuasive elements and rhetorical techniques
+- Inadequate storytelling and narrative structure
+- Failure to create emotional connection with content
+- Poor use of examples, analogies, and metaphors
+- Missing engaging and compelling presentation
+- Inadequate use of visual and structural elements
+- Failure to anticipate and address objections
+- Poor pacing and flow of information delivery
+- Missing call-to-action and next steps guidance
+- Inadequate use of social proof and credibility markers
+- Failure to create memorable and impactful messages
+- Poor adaptation to different communication channels
+- Missing interactive and engaging elements
+- Inadequate use of questioning techniques
+- Failure to create urgency and motivation
+- Poor balance of logic and emotion in communication
+- Missing customization for different stakeholders
+- Inadequate feedback loops and confirmation
+- Failure to create lasting behavioral change
+
+### **STRATEGIC & SYSTEMS THINKING GAPS**
+- Poor long-term strategic planning capabilities
+- Missing systems-level thinking and interconnection analysis
+- Inadequate consideration of unintended consequences
+- Failure to identify leverage points and critical factors
+- Poor scenario planning and future-proofing
+- Missing stakeholder analysis and mapping
+- Inadequate resource allocation optimization
+- Failure to consider competitive dynamics
+- Poor timing and sequencing of actions
+- Missing identification of success metrics and KPIs
+- Inadequate risk assessment and mitigation planning
+- Failure to consider scalability and sustainability
+- Poor integration of short-term tactics with long-term strategy
+- Missing consideration of organizational change management
+- Inadequate ecosystem and value chain analysis
+- Failure to identify strategic partnerships and alliances
+- Poor assessment of market dynamics and trends
+- Missing consideration of regulatory and policy impacts
+- Inadequate analysis of technological disruption potential
+- Failure to consider social and environmental implications
+
+### **RESEARCH & ANALYTICAL METHODOLOGY WEAKNESSES**
+- Poor research design and methodology selection
+- Missing systematic literature review approaches
+- Inadequate source evaluation and credibility assessment
+- Failure to identify research gaps and limitations
+- Poor data collection and analysis strategies
+- Missing triangulation of multiple information sources
+- Inadequate statistical and quantitative analysis
+- Failure to consider sampling biases and limitations
+- Poor interpretation of research findings
+- Missing peer review and validation processes
+- Inadequate documentation of research methodology
+- Poor integration of primary and secondary research
+- Missing longitudinal and trend analysis
+- Inadequate cross-cultural and comparative analysis
+- Failure to consider researcher bias and objectivity
+- Poor replication and validation of findings
+- Missing interdisciplinary research approaches
+- Inadequate use of mixed-methods research designs
+- Failure to consider practical significance vs statistical significance
+
+### **PROJECT MANAGEMENT & EXECUTION DEFICIENCIES**
+- Poor project scope definition and boundary setting
+- Missing detailed work breakdown structures
+- Inadequate resource planning and allocation
+- Failure to identify critical path and dependencies
+- Poor risk identification and mitigation strategies
+- Missing stakeholder engagement and communication plans
+- Inadequate quality assurance and control measures
+- Failure to establish clear success criteria and metrics
+- Poor change management and adaptation strategies
+- Missing contingency planning for various scenarios
+- Inadequate team coordination and collaboration frameworks
+- Failure to consider organizational constraints and capabilities
+- Poor timeline estimation and milestone planning
+- Missing integration with existing systems and processes
+- Inadequate documentation and knowledge management
+- Failure to plan for post-implementation support
+- Poor consideration of user adoption and training needs
+- Missing feedback loops and continuous improvement mechanisms
+- Inadequate budget planning and cost control
+
+### **DOMAIN EXPERTISE & PROFESSIONAL KNOWLEDGE GAPS**
+- Superficial understanding of professional best practices
+- Missing industry-specific terminology and concepts
+- Inadequate knowledge of regulatory requirements
+- Poor understanding of specialized methodologies
+- Missing awareness of industry trends and developments
+- Inadequate knowledge of professional tools and technologies
+- Failure to consider certification and licensing requirements
+- Poor understanding of professional liability issues
+- Missing knowledge of industry-specific metrics and benchmarks
+- Inadequate understanding of supply chain dynamics
+- Failure to consider professional development pathways
+- Poor knowledge of industry associations and networks
+- Missing understanding of competitive landscape dynamics
+- Inadequate knowledge of emerging technologies impact
+- Failure to consider globalization effects on industry
+- Poor understanding of sustainability and ESG considerations
+- Missing knowledge of digital transformation impacts
+- Inadequate understanding of customer behavior patterns
+- Failure to consider demographic and social trends
+
+### **EMOTIONAL INTELLIGENCE & SOCIAL AWARENESS LIMITATIONS**
+- Poor recognition of emotional undertones in communication
+- Missing empathy and perspective-taking capabilities
+- Inadequate understanding of social dynamics
+- Failure to consider psychological factors in decision-making
+- Poor awareness of cultural sensitivities and differences
+- Missing consideration of interpersonal relationship impacts
+- Inadequate understanding of motivation and behavior drivers
+- Failure to recognize cognitive biases and mental shortcuts
+- Poor appreciation of individual differences and preferences
+- Missing consideration of group dynamics and team psychology
+- Inadequate understanding of leadership and influence patterns
+- Failure to consider stress and pressure impacts
+- Poor recognition of communication barriers and filters
+- Missing understanding of conflict resolution approaches
+- Inadequate consideration of power dynamics and hierarchies
+- Failure to recognize non-verbal communication cues
+- Poor understanding of trust-building and relationship development
+- Missing consideration of generational differences
+- Inadequate understanding of diversity and inclusion factors
+- Failure to consider work-life balance and wellness impacts
+
+### **LEARNING & ADAPTATION SIMULATION GAPS**
+- Poor simulation of learning from feedback and iteration
+- Missing adaptive problem-solving based on new information
+- Inadequate simulation of expertise development over time
+- Failure to simulate pattern recognition improvement
+- Poor simulation of skill building and competency development
+- Missing simulation of knowledge integration and synthesis
+- Inadequate simulation of experience-based judgment
+- Failure to simulate intuition development and application
+- Poor simulation of error correction and learning
+- Missing simulation of contextual adaptation capabilities
+- Inadequate simulation of collaborative learning processes
+- Failure to simulate reflective practice and improvement
+- Poor simulation of tacit knowledge development
+- Missing simulation of mentorship and guidance relationships
+- Inadequate simulation of cross-domain knowledge transfer
+- Failure to simulate breakthrough insights and revelations
+- Poor simulation of practice-based skill refinement
+- Missing simulation of failure analysis and improvement
+- Inadequate simulation of peer learning and knowledge sharing
+- Failure to simulate continuous professional development
